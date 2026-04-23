@@ -1,0 +1,6 @@
+{
+  "name": "북다리 (Book-Bridge)",
+  "description": "나의 독서 체력에 딱 맞는 책을 찾아주는 개인화 도서 추천 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

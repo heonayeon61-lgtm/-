@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-cute: "Jua", sans-serif;
+}
+
+:root {
+  font-family: "Jua", sans-serif !important;
+}
+
+body, button, input, select, textarea {
+  font-family: "Jua", sans-serif !important;
+}
